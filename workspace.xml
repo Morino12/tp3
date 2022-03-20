@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46e98b90-3f82-46f0-a47c-06e52a083445" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="C:\Java\Structure de données\TPGlobal\TP2\src\test\Coverage" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24yDL6jQVjRFb376xj7VcAfjec2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java\Structure de données\TPGlobal\OlivierMorin-Tp3\src\main\java\jeu" />
+      <recent name="C:\Java\Structure de données\TPGlobal\OlivierMorin-Tp3\src\main\java\gui" />
+      <recent name="C:\Java\Structure de données\TPGlobal\TP2" />
+      <recent name="C:\Java\Structure de données\TPGlobal\TP2\src\main\java" />
+      <recent name="C:\Java\Structure de données\TPGlobal\TP2\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="formes" />
+      <recent name="jeu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.formes in OlivierMorin-AnthonyGuay-Tp3">
+    <configuration name="VecteursFormesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OlivierMorin-AnthonyGuay-Tp3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="formes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="formes" />
+      <option name="MAIN_CLASS_NAME" value="formes.VecteursFormesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VecteursFormesTest.melanger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OlivierMorin-AnthonyGuay-Tp3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="formes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="formes" />
+      <option name="MAIN_CLASS_NAME" value="formes.VecteursFormesTest" />
+      <option name="METHOD_NAME" value="melanger" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VecteursFormesTest.testToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OlivierMorin-AnthonyGuay-Tp3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="formes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="formes" />
+      <option name="MAIN_CLASS_NAME" value="formes.VecteursFormesTest" />
+      <option name="METHOD_NAME" value="testToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VecteursFormesTest.trier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OlivierMorin-AnthonyGuay-Tp3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="formes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="formes" />
+      <option name="MAIN_CLASS_NAME" value="formes.VecteursFormesTest" />
+      <option name="METHOD_NAME" value="trier" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="formes in OlivierMorin-AnthonyGuay-Tp3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OlivierMorin-AnthonyGuay-Tp3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="formes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="formes" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.formes in OlivierMorin-AnthonyGuay-Tp3" />
+        <item itemvalue="JUnit.VecteursFormesTest.testToString" />
+        <item itemvalue="JUnit.VecteursFormesTest.trier" />
+        <item itemvalue="JUnit.VecteursFormesTest" />
+        <item itemvalue="JUnit.VecteursFormesTest.melanger" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46e98b90-3f82-46f0-a47c-06e52a083445" name="Changes" comment="" />
+      <created>1644593874127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644593874127</updated>
+      <workItem from="1644593875257" duration="249000" />
+      <workItem from="1644949921686" duration="1030000" />
+      <workItem from="1645125809199" duration="5148000" />
+      <workItem from="1645132919326" duration="2800000" />
+      <workItem from="1645191033738" duration="9307000" />
+      <workItem from="1645200471385" duration="8895000" />
+      <workItem from="1645214334323" duration="3000" />
+      <workItem from="1645214340917" duration="5677000" />
+      <workItem from="1645474856123" duration="3019000" />
+      <workItem from="1645477903776" duration="3836000" />
+      <workItem from="1645493165948" duration="1294000" />
+      <workItem from="1645549312989" duration="67000" />
+      <workItem from="1645553719590" duration="678000" />
+      <workItem from="1645799162688" duration="5596000" />
+      <workItem from="1646103499244" duration="13000" />
+      <workItem from="1646154301845" duration="709000" />
+      <workItem from="1647008728086" duration="22131000" />
+      <workItem from="1647216620022" duration="7804000" />
+      <workItem from="1647282740059" duration="12000" />
+      <workItem from="1647282760393" duration="9737000" />
+      <workItem from="1647294447580" duration="269000" />
+      <workItem from="1647353414443" duration="699000" />
+      <workItem from="1647360875917" duration="4884000" />
+      <workItem from="1647540316971" duration="4698000" />
+      <workItem from="1647607690354" duration="831000" />
+      <workItem from="1647608546362" duration="4073000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp1$RectangleTest_calculerPerimetre.ic" NAME="RectangleTest.calculerPerimetre Coverage Results" MODIFIED="1645199573135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$TriangleTest_getType.ic" NAME="TriangleTest.getType Coverage Results" MODIFIED="1645476370216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp1$CercleTest.ic" NAME="CercleTest Coverage Results" MODIFIED="1645202016684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$TriangleTest_calculerPerimetre.ic" NAME="TriangleTest.calculerPerimetre Coverage Results" MODIFIED="1645474997895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$CercleTest_setCouleur.ic" NAME="CercleTest.setCouleur Coverage Results" MODIFIED="1647294648046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$TriangleTest.ic" NAME="TriangleTest Coverage Results" MODIFIED="1647294575633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp1$CercleTest_getNom.ic" NAME="CercleTest.getNom Coverage Results" MODIFIED="1645201718806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$VecteursFormesTest_melanger.ic" NAME="VecteursFormesTest.melanger Coverage Results" MODIFIED="1647542049328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$VecteursFormesTest_trier.ic" NAME="VecteursFormesTest.trier Coverage Results" MODIFIED="1647294355174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$CercleTest_testToString.ic" NAME="CercleTest.testToString Coverage Results" MODIFIED="1647364612596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$VecteursFormesTest_getVecteur.ic" NAME="VecteursFormesTest.getVecteur Coverage Results" MODIFIED="1647217363089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp1$RectangleTest_calculerSurface.ic" NAME="RectangleTest.calculerSurface Coverage Results" MODIFIED="1645199542542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$VecteursFormesTest_testToString.ic" NAME="VecteursFormesTest.testToString Coverage Results" MODIFIED="1647614637940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$All_in_OlivierMorin_AnthonyGuay_Tp3.ic" NAME="All in OlivierMorin-AnthonyGuay-Tp3 Coverage Results" MODIFIED="1647367143113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$CercleTest.ic" NAME="CercleTest Coverage Results" MODIFIED="1647366328246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp1$TriangleTest.ic" NAME="TriangleTest Coverage Results" MODIFIED="1645214283288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp1$RectangleTest_getNom.ic" NAME="RectangleTest.getNom Coverage Results" MODIFIED="1645201206021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$FormeTest.ic" NAME="FormeTest Coverage Results" MODIFIED="1647294630656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp1$TriangleTest_calculerSurface.ic" NAME="TriangleTest.calculerSurface Coverage Results" MODIFIED="1645204573051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$RectangleTest.ic" NAME="RectangleTest Coverage Results" MODIFIED="1647294624538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$FormeTest_compareTo.ic" NAME="FormeTest.compareTo Coverage Results" MODIFIED="1647013055816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$VecteursFormesTest.ic" NAME="VecteursFormesTest Coverage Results" MODIFIED="1647542129883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$TriangleTest_getCoteA.ic" NAME="TriangleTest.getCoteA Coverage Results" MODIFIED="1645475189193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$FormeTest_testEquals.ic" NAME="FormeTest.testEquals Coverage Results" MODIFIED="1645481233665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp1$RectangleTest_setCouleur.ic" NAME="RectangleTest.setCouleur Coverage Results" MODIFIED="1645198256057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp1$CercleTest_calculerSurface.ic" NAME="CercleTest.calculerSurface Coverage Results" MODIFIED="1645198011993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp1$RectangleTest.ic" NAME="RectangleTest Coverage Results" MODIFIED="1645200819847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$formes_in_OlivierMorin_AnthonyGuay_Tp3.ic" NAME="formes in OlivierMorin-AnthonyGuay-Tp3 Coverage Results" MODIFIED="1647614661827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/OlivierMorin_Tp2$VecteursFormesTest_remplir.ic" NAME="VecteursFormesTest.remplir Coverage Results" MODIFIED="1647015339929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>formes.*</FILTER>
+    </SUITE>
+  </component>
+</project>
